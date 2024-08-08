@@ -1,0 +1,99 @@
+@media(max-width: 1400px){
+    .find-tex h3{
+        font-size: 40px;
+    }
+
+    .find-tex p{
+        font-size: 18px;
+    }
+
+    .how-tex h4{
+        font-size: 26px;
+    }
+
+    .how-tex p{
+        font-size: 18px;
+    }
+
+    .wish-your-wife-text h1{
+        font-size: 35px;
+    }
+
+    .wish-your-wife-text p{
+        font-size: 11px;
+    }
+
+    .wish-your-wife-text h3{
+        font-size: 15px;
+    }
+
+    .database h3{
+        font-size: 19px;
+    }
+
+    .database h4{
+        font-size: 14px;
+    }
+
+    .artificial h3{
+        font-size: 19px;
+    }
+
+    .artificial h4{
+        font-size: 14px;
+    }
+
+
+}
+
+
+@media(max-width: 1200px){
+
+    .find-tex h3{
+        font-size: 34px;
+    }
+
+    .how-tex p{
+        font-size: 15px;
+    }
+}
+
+
+@media(max-width: 1063px){
+
+    .ready-text h2{
+        font-size: 26px;
+    }
+
+    .ready-text p{
+        font-size: 26px;
+    }
+
+
+}
+
+@media(max-width: 990px){
+    .wish-your-wife-text h1{
+        font-size: 30px;
+    }
+
+    .two-div{
+        flex-direction: column;
+    }
+
+    .database{
+        width: 70%;
+    }
+
+    .artificial{
+        width: 70%;
+    }
+
+    .wish-your-wife{
+        margin-left: 150px;
+    }
+
+    .wish-your-wife-text{
+        padding: 50px;
+    }
+}

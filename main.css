@@ -47,11 +47,15 @@ nav{
 }
 
 .find-text{
-    width: 50%;
-    text-align: start;
-    padding: 200px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
     background-color: #F1F1F2;
-    margin-bottom: 0;
+    width: 50%;
+}
+
+.find-tex{
+  width: 50%;  
 }
 
 .find-text h3{
@@ -87,11 +91,15 @@ nav{
 }
 
 .how-text{
-    width: 50%;
-    text-align: start;
-    padding: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #F1F1F2;
-    margin-bottom: 0;
+    width: 50%;
+}
+
+.how-tex{
+    width: 50%;
 }
 
 .how-text h4{
@@ -281,6 +289,7 @@ nav{
     padding: 40px;
     border: 1px solid transparent;
 }
+
 
 .database h3{
     font-size: 24px;
